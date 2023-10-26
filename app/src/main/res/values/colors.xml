@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="amber">#ffc000</color>
+    <color name="mini_shaft">#333333</color>
+    <color name="french_gray">#bfc0c4</color>
+    <color name="outer_space">#2d343c</color>
+    <color name="orange">#ff5722</color>
+    <color name="pear">#cddc39</color>
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="color0">#CCFF99</color>
+    <color name="color1">#41F1E5</color>
+    <color name="color2">#8D41F1</color>
+    <color name="color3">#FF99CC</color>
+
+    <color name="red_checked_color">#FF4C39</color>
+    <color name="red_normal_color">#935656</color>
+</resources>
