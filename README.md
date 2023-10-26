@@ -7,3 +7,5 @@ With a user-friendly repository, comprehensive documentation, and an open-source
 
 
 <img width="327" alt="Screenshot 2023-10-26 at 4 13 40 PM" src="https://github.com/Ashiiq666/LinnedIndicator/assets/95855980/395048b9-7136-41ad-ac86-ab490865181f">
+
+<img width="321" alt="Screenshot 2023-10-26 at 5 41 39 PM" src="https://github.com/Ashiiq666/LinnedIndicator/assets/95855980/2e7458a6-ef35-41aa-92f1-21e4c6fd0831">
