@@ -6,4 +6,4 @@ Special thanks to the external library "com.github.zhpanvip:viewpagerindicator:1
 With a user-friendly repository, comprehensive documentation, and an open-source license, the Dynamic Line Indicator is a valuable resource for developers looking to improve the user experience of their Android applications.
 
 
-P[](<img width="327" alt="Screenshot 2023-10-26 at 4 13 40 PM" src="https://github.com/Ashiiq666/LinnedIndicator/assets/95855980/395048b9-7136-41ad-ac86-ab490865181f">)
+P[LinnedIndicator](<img width="327" alt="Screenshot 2023-10-26 at 4 13 40 PM" src="https://github.com/Ashiiq666/LinnedIndicator/assets/95855980/395048b9-7136-41ad-ac86-ab490865181f">)
