@@ -4,3 +4,6 @@ Introducing the "Dynamic Line Indicator" for Android, a versatile UI component t
 Special thanks to the external library "com.github.zhpanvip:viewpagerindicator:1.2.3" for making this implementation possible. It has played a crucial role in creating a seamless and dynamic user interface element. Customization options allow developers to tailor the indicator to match their app's unique style, making it a valuable addition to onboarding flows, image galleries, content carousels, or any scenario requiring step-based navigation.
 
 With a user-friendly repository, comprehensive documentation, and an open-source license, the Dynamic Line Indicator is a valuable resource for developers looking to improve the user experience of their Android applications.
+
+
+![Uploading Screenshot 2023-10-26 at 4.13.40 PM.png…]()
