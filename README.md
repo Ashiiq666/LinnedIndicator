@@ -6,4 +6,4 @@ Special thanks to the external library "com.github.zhpanvip:viewpagerindicator:1
 With a user-friendly repository, comprehensive documentation, and an open-source license, the Dynamic Line Indicator is a valuable resource for developers looking to improve the user experience of their Android applications.
 
 
-![Uploading Screenshot 2023-10-26 at 4.13.40 PM.png…]()
+linnedindicator(![Uploading Screenshot 2023-10-26 at 4.13.40 PM.png…]())
