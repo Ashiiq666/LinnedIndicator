@@ -25,6 +25,12 @@ class SampleActivity : AppCompatActivity() {
                 getString(R.string.sample_item_description_bike),
                 R.color.amber
             ),
+            SlideItem(
+                getString(R.string.sample_item_description_bike),
+                R.color.orange
+            ),
+
+
         )
         val view_pager2 = findViewById<ViewPager2>(R.id.viewPager)
         val indicatorView = findViewById<IndicatorView>(R.id.indicator_view)
